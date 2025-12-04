@@ -38,7 +38,7 @@ sudo apt-get install strace jq  # Debian/Ubuntu
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/NYU-DTCC-VIP-Final-Project-2025-Fall-Isabelle.git
+git clone https://github.com/IsabelleQYWang/NYU-DTCC-VIP-Final-Project-2025-Fall-Isabelle.git
 cd NYU-DTCC-VIP-Final-Project-2025-Fall-Isabelle
 ```
 
