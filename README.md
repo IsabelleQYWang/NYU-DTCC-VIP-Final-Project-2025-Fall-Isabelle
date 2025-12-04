@@ -14,12 +14,12 @@ Traditional SBOM generators only capture statically declared dependencies. This 
 
 ### Features
 
-- ✅ Cross-platform support (Linux and macOS)
-- ✅ Multiple SBOM format outputs (JSON, SPDX, CycloneDX)
-- ✅ Static library analysis
-- ✅ Runtime library tracing
-- ✅ Automatic version detection
-- ✅ Enhanced SBOM output with dynamic dependencies section
+- Cross-platform support (Linux and macOS)
+- Multiple SBOM format outputs (JSON, SPDX, CycloneDX)
+- Static library analysis
+- Runtime library tracing
+- Automatic version detection
+- Enhanced SBOM output with dynamic dependencies section
 
 ### Requirements
 
